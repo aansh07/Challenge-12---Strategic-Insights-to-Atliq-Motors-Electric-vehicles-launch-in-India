@@ -2,6 +2,7 @@ Challenge #12:->Strategic Insights to Atliq Motors an Automotive company on Elec
 
 
 
+
 **Description:**  
 
 As part of a resume challenge project by Codebasics, led by Dhaval Patel sir and Hemanand Vadivel sir , I undertook a comprehensive market analysis for AtliQ Motors, a major player in the electric vehicle (EV) sector. Tasked with analyzing the EV and hybrid vehicle market in India, I assumed the role of Peter Pandey, a data analyst at AtliQ Motors.
