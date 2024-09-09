@@ -1,4 +1,7 @@
 LINKEDIN LINK:-> https://www.linkedin.com/posts/ansh-mattoo-528537215_dataanalysis-powerbi-excel-activity-7237329147545427968-GSHX?utm_source=share&utm_medium=member_desktop
+
+
+
 Challenge #12:->Strategic Insights to Atliq Motors an Automotive company on Electric vehicles launch in India
 
 ![das](https://github.com/user-attachments/assets/7dbabe1a-ab7b-44c6-9e8e-955bfe5cdd04)
