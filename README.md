@@ -24,7 +24,6 @@ As part of a resume challenge project by Codebasics, led by Dhaval Patel sir and
 
 
 
-This project honed my skills in data analysis, visualization, and strategic storytelling, providing actionable insights to support business decisions.
 
 
 
